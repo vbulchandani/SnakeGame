@@ -1,2 +1,2 @@
 # SnakeGame
-Created Snake Game in HMTL
+Created Snake Game in JQuery
